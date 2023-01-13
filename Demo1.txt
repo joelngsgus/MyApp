@@ -1,3 +1,4 @@
+Testing merge configs
 This is my first demo app
 me testing my skils for using git
 testing merge changes
