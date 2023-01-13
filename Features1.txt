@@ -1,1 +1,2 @@
 Testing new features with a feature branch
+Testing same line conflict user 1
